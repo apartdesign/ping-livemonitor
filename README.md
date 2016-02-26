@@ -8,10 +8,10 @@ A web interface allows you to monitor the results in real time.
 
 More features:
 
-- Save the pings in a daily basis as CSV file
+- Save the pings as CSV file (daily)
 - Send the pings to a remote server
 
-# Building
+## Building
 
 Install all the needed packages
 
