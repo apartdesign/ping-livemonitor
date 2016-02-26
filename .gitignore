@@ -1,0 +1,17 @@
+# Mac Stuff
+.DS_Store
+._*
+._.DS_Store
+
+# Editors
+.idea
+
+# Config
+/config.json
+
+# NPM
+/node_modules
+/npm-debug.log
+
+# production
+/build

@@ -1,0 +1,29 @@
+{
+  "name": "ping-livemonitor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "/server/main.js",
+  "scripts": {
+    "start": "node ./server/main.js",
+    "debug": "node --debug ./server/main.js"
+  },
+  "keywords": [
+    "ping",
+    "monitor",
+    "luxembourg"
+  ],
+  "author": "Apart.lu, Filipe DA COSTA",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^13.0.0",
+    "inert": "^3.2.0",
+    "ping-lite": "^1.0.1",
+    "sockjs": "^0.3.15"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-nodemon": "^2.0.6",
+    "gulp-notify": "^2.2.0",
+    "lodash": "^4.2.0"
+  }
+}
